@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Лаб3.2</string>
+    <string name="title">Выберите что требуется открыть и введите данные для поиска</string>
+    <string name="browser">Браузер</string>
+    <string name="map">Карта</string>
+    <string name="phone">Телефон</string>
+    <string name="any">Определить автоматически</string>
+    <string name="call">Поиск</string>
+</resources>
